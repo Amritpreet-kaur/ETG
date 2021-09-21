@@ -1,0 +1,127 @@
+{
+        "101": {
+                "name": "Degtergents",
+                "units_sold": "0",
+                "unit_left": "90"
+        },
+		"102": {
+                "name": "Tooth Paste",
+                "units_sold": "0",
+                "unit_left": "51"
+        },
+		"103": {
+                "name": "Sun Flower Oil",
+                "units_sold": "1",
+                "units_left": "9"
+        },
+		"104": {
+                "name": "Broom",
+                "units_sold": "",
+                "unit_left": "51"
+        },
+		"105": {
+                "name": "Vacum Cleaner",
+                "units_sold": "0",
+                "unit_left": "4"
+        },
+		"106": {
+                "name": "Knife",
+                "units_sold": "",
+                "units_left": "83"
+        },
+		"107": {
+                "name": "Body Soap",
+                "units_sold": "0",
+                "unit_left": "45"
+        },
+		"108": {
+                "name": "Wheet Powder",
+                "units_sold": "0",
+                "units_left": "23"
+        },
+		"109": {
+                "name": "Rice",
+                "units_sold": "0",
+                "units_left": "14"
+        },
+		"110": {
+                "name": "Kit Kat",
+                "units_sold": "5",
+                "units_left": "65"
+        },
+		"111": {
+                "name": "Ballpen",
+                "units_sold": "3",
+                "units_left": "43"
+        },
+		"112": {
+                "name": "Dinning Table",
+                "units_sold": "0",
+                "units_left": "31"
+        },
+		"113": {
+                "name": "Calculator",
+                "units_sold": "1",
+                "units_left": "18"
+        },
+		"114": {
+                "name": "Brown Envelope",
+                "units_sold": "0",
+                "units_left": "64"
+        },
+		"115": {
+                "name": "Desk",
+                "units_sold": "0",
+                "units_left": "20"
+		},
+		"116": {
+                "name": "Lamp",
+                "units_sold": "0",
+                "units_left": "18"
+		},
+		"117": {
+                "name": "Speakers",
+                "units_sold": "0",
+                "units_left": "34"
+		},
+		"118": {
+                "name": "Printer",
+                "units_sold": "0",
+                "units_left": "28"
+		},
+		"119": {
+                "name": "Books",
+                "units_sold": "",
+                "units_left": "112"
+        },
+        "120": {
+                "name": "Bread",
+                "units_sold": "2",
+                "units_left": "45"
+        },
+		"121": {
+                "name": "Butter",
+                "units_sold": "1",
+                "units_left": "31"
+        },
+		"122": {
+                "name": "Spoon",
+                "units_sold": "4",
+                "units_left": "52"
+        },
+		"123": {
+                "name": "Pan",
+                "units_sold": "0",
+                "units_left": "19"
+        },
+		"124": {
+                "name": "Colours",
+                "units_sold": "0",
+                "units_left": "64"
+        },
+		"125": {
+                "name": "Oven",
+                "units_sold": "1",
+                "units_left": "37"
+        },
+}
