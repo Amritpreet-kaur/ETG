@@ -1,0 +1,152 @@
+{
+        "101": {
+                "name": "Degtergents",
+                "category": "Toiletories",
+                "price": "10",
+                "unit_left": "90"
+        },
+		"102": {
+                "name": "Tooth Paste",
+                "category": "Toiletories",
+                "price": "25",
+                "unit_left": "51"
+        },
+		"103": {
+                "name": "Sun Flower Oil",
+                "category": "Kitchen Items",
+                "price": "85",
+                "units_left": "10"
+        },
+		"104": {
+                "name": "Broom",
+                "category": "Home Care",
+                "price": "25",
+                "unit_left": "51"
+        },
+		"105": {
+                "name": "Vacum Cleaner",
+                "category": "Home Care",
+                "price": "4500",
+                "unit_left": "4"
+        },
+		"106": {
+                "name": "Knife",
+                "category": "Kitchen Items",
+                "price": "60",
+                "units_left": "83"
+        },
+		"107": {
+                "name": "Body Soap",
+                "category": "Toiletories",
+                "price": "40",
+                "unit_left": "45"
+        },
+		"108": {
+                "name": "Wheet Powder",
+                "category": "Kitchen Items",
+                "price": "80",
+                "units_left": "23"
+        },
+		"109": {
+                "name": "Rice",
+                "category": "Kitchen Items",
+                "price": "50",
+                "units_left": "14"
+        },
+		"110": {
+                "name": "Kit Kat",
+                "category": "Kitchen Items",
+                "price": "15",
+                "units_left": "70"
+        },
+		"111": {
+                "name": "Ballpen",
+                "category": "Stationary",
+                "price": "5",
+                "units_left": "46"
+        },
+		"112": {
+                "name": "Dinning Table",
+                "category": "Furniture",
+                "price": "9500",
+                "units_left": "31"
+        },
+		"113": {
+                "name": "Calculator",
+                "category": "Stationary",
+                "price": "75",
+                "units_left": "19"
+        },
+		"114": {
+                "name": "Brown Envelope",
+                "category": "Stationary",
+                "price": "6",
+                "units_left": "64"
+        },
+		"115": {
+                "name": "Desk",
+                "category": "Furniture",
+                "price": "1200",
+                "units_left": "20"
+		},
+		"116": {
+                "name": "Lamp",
+                "category": "Electronics",
+                "price": "689",
+                "units_left": "18"
+		},
+		"117": {
+                "name": "Speakers",
+                "category": "Electronics",
+                "price": "850",
+                "units_left": "34"
+		},
+		"118": {
+                "name": "Printer",
+                "category": "Electronics",
+                "price": "6499",
+                "units_left": "28"
+		},
+		"119": {
+                "name": "Books",
+                "category": "Stationary",
+                "price": "50",
+                "units_left": "112"
+        },
+        "120": {
+                "name": "Bread",
+                "category": "Kitchen Items",
+                "price": "15",
+                "units_left": "47"
+        },
+		"121": {
+                "name": "Butter",
+                "category": "Kitchen Items",
+                "price": "89",
+                "units_left": "32"
+        },
+		"122": {
+                "name": "Spoon",
+                "category": "Kitchen Items",
+                "price": "12",
+                "units_left": "56"
+        },
+		"123": {
+                "name": "Pan",
+                "category": "Kitchen Items",
+                "price": "439",
+                "units_left": "19"
+        },
+		"124": {
+                "name": "Colours",
+                "category": "Stationary",
+                "price": "25",
+                "units_left": "64"
+        },
+		"125": {
+                "name": "Oven",
+                "category": "Electronics",
+                "price": "5050",
+                "units_left": "38"
+        },
+}
